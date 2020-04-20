@@ -1,2 +1,3 @@
 # kaktusarna
-Stranka plná kaktusů
+
+Stránka plná kaktusů - kaktus do každé rodiny
